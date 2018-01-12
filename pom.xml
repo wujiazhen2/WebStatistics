@@ -11,9 +11,12 @@
 	<name>webstatistics-parent</name>
 	<description>Demo project for Spring Boot</description>
 	<modules>
-		<module>logserver</module>
-		<module>registerserver</module>
-		<module>web</module>
+		<module>config-server</module>
+		<module>gateway-server</module>
+		<module>log-server</module>
+		<module>webstatistics-common</module>
+		<module>webstatistics-web</module>
+		<module>register-server</module>
 	</modules>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
