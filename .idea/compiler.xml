@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="common" />
+        <module name="config-server" />
+        <module name="config_server" />
+        <module name="gateway-server" />
+        <module name="gatewayserver" />
+        <module name="log-server" />
+        <module name="logserver" />
+        <module name="register-server" />
+        <module name="registerserver" />
+        <module name="web" />
+        <module name="webstatistics-common" />
+        <module name="webstatistics-registerserver" />
+        <module name="webstatistics-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="common" target="1.5" />
+      <module name="config-server" target="1.8" />
+      <module name="config_server" target="1.8" />
+      <module name="gateway-server" target="1.8" />
+      <module name="gatewayserver" target="1.8" />
+      <module name="log-server" target="1.8" />
+      <module name="logserver" target="1.8" />
+      <module name="register-server" target="1.8" />
+      <module name="registerserver" target="1.8" />
+      <module name="service" target="1.8" />
+      <module name="web" target="1.8" />
+      <module name="webstatistics-common" target="1.5" />
+      <module name="webstatistics-parent" target="1.8" />
+      <module name="webstatistics-registerserver" target="1.5" />
+      <module name="webstatistics-web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

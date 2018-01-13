@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config_server/config-server.iml" filepath="$PROJECT_DIR$/config_server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server/config_server.iml" filepath="$PROJECT_DIR$/config-server/config_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway-server/gateway-server.iml" filepath="$PROJECT_DIR$/gateway-server/gateway-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gatewayserver/gatewayserver.iml" filepath="$PROJECT_DIR$/gatewayserver/gatewayserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/log-server/log-server.iml" filepath="$PROJECT_DIR$/log-server/log-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/logserver/logserver.iml" filepath="$PROJECT_DIR$/logserver/logserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/register-server/register-server.iml" filepath="$PROJECT_DIR$/register-server/register-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/registerserver/registerserver.iml" filepath="$PROJECT_DIR$/registerserver/registerserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web/web.iml" filepath="$PROJECT_DIR$/web/web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webstatistics-common/webstatistics-common.iml" filepath="$PROJECT_DIR$/webstatistics-common/webstatistics-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webstatistics-parent.iml" filepath="$PROJECT_DIR$/webstatistics-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webstatistics-web/webstatistics-web.iml" filepath="$PROJECT_DIR$/webstatistics-web/webstatistics-web.iml" />
+    </modules>
+  </component>
+</project>
